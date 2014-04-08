@@ -23,12 +23,13 @@ tarea será evaluada.**
 RadixSort[3], implementados por ustedes mismos que reciba los siguiente parametros de entrada y
 salida:
 
-Ejemplo
+Ejemplo:
+
 Input: lista = [23,45,12,151,20,34] # La lista es de largo variable
+
 Output: lista_ordenada = [12,20,23,34,45,151] # La lista es de largo variable
 
-#####Para que el item 1 sea evaluado como correcto todas las operaciones deben ejecutarse 
-correctamente. 
+#####Para que el item 1 sea evaluado como correcto todas las operaciones deben ejecutarse correctamente. 
 
 ----
 
@@ -43,11 +44,11 @@ correctamente.
 #####Sólo el alumno que complete los dos itemes recibira la bonificación
 ----
 #####La tarea debe ser enviada en un solo archivo ".py" al correo de su ayudante con el asunto 
-"Programacion <diurno|vespertino> Tarea 1 2014-1" y con el siguiente formato: 
+"Programacion <diurno|vespertino> Tarea 2 2014-1" y con el siguiente formato: 
 "tarea_2_nombre_apellido_apellido_rut.py"
-###El plazo final es el para los diurnos es el Martes 22 de Abril a las 23:59 Hrs. y para los 
-vespertinos Viernes 25 de Abril a las 23:59 Hrs. Cualquier tarea recibida posterior a este plazo 
-será evaluada con nota mínima.
+
+###El plazo final es para los diurnos el Martes 22 de Abril a las 23:59 Hrs. y para los vespertinos el Viernes 25 de Abril a las 23:59 Hrs. Cualquier tarea recibida posterior a este plazo será evaluada con nota mínima.
+
 ----
 #####Eso es todo, cualquier duda pueden hacérmela llegar a los correos de los ayudantes con el asunto "Programacion", sólo los correos con ese asunto serán contestados. 
 
