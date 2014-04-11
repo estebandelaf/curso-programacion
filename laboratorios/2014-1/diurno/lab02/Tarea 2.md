@@ -47,7 +47,7 @@ Output: lista_ordenada = [12,20,23,34,45,151] # La lista es de largo variable
 "Programacion <diurno|vespertino> Tarea 2 2014-1" y con el siguiente formato: 
 "tarea_2_nombre_apellido_apellido_rut.py"
 
-###El plazo final es para los diurnos el Martes 22 de Abril a las 23:59 Hrs. y para los vespertinos el Viernes 25 de Abril a las 23:59 Hrs. Cualquier tarea recibida posterior a este plazo será evaluada con nota mínima.
+###El plazo final es para los diurnos el Lunes 21 de Abril a las 23:59 Hrs. y para los vespertinos el Viernes 25 de Abril a las 23:59 Hrs. Cualquier tarea recibida posterior a este plazo será evaluada con nota mínima.
 
 ----
 #####Eso es todo, cualquier duda pueden hacérmela llegar a los correos de los ayudantes con el asunto "Programacion", sólo los correos con ese asunto serán contestados. 
