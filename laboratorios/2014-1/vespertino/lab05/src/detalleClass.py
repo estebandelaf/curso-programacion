@@ -29,6 +29,6 @@ class detalle:
     def getCantidad(self):
         return self.cantidad
 
-detalle = detalle()
+detalle = Detalle()
 detalle.setId(int(input("ingrese el id\n")))
 print(detalle.getId())
