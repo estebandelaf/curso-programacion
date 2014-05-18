@@ -1,0 +1,64 @@
+##Laboratorio de programación 2014-1
+
+***Francisco Valdivia (Diurno) - Roberto Moreno (Vespertino) ***
+
+#Tarea N°2
+
+Funciones, Recursividad y Algoritmo de Ordenamiento
+
+Contexto:
+Después de la captura de los pokemon por todo el mundo gracias a google y su celebración del día de 
+las bromas, los ayudantes de programación actualizaron el numero de los pokemon del "googledex" a la
+pokedex de la región kalos quedando el listado de pokemones desordenados. Como los ayudantes se 
+encuentran algo ocupados con sus deberes piden a los alumnos entregar tres funciones con los 
+algoritmos de ordenamiento BubbleSort[1], QuickSort[2] y RadixSort[3], en cada una de ellas para que
+los ayudantes puedan ordenan sus pokemones
+
+La tarea que usted realizará consiste en desarrollar un programa en Python 3.x.
+
+**Constará de 1 partes obligatorias y 2 opcionales. Según la funcionalidad efectiva de estas, la 
+tarea será evaluada.**
+
+1) Desarrollar tres funciones con los algoritmos de ordenamiento BubbleSort[1], QuickSort[2] y 
+RadixSort[3], implementados por ustedes mismos que reciba los siguiente parametros de entrada y
+salida:
+
+Ejemplo:
+
+Input: lista = [23,45,12,151,20,34] # La lista es de largo variable
+
+Output: lista_ordenada = [12,20,23,34,45,151] # La lista es de largo variable
+
+#####Para que el item 1 sea evaluado como correcto todas las operaciones deben ejecutarse correctamente. 
+
+----
+
+###Bonus (opcional)
+
+2) Implementar el algoritmo QuickSort recursivamente
+
+#####Tip: Atento a las clases relativa al tema
+
+3) Responder: ¿Porque Barack Obama no recomienda usar BubbleSort como algoritmo de ordenamiento? [4]
+
+#####Sólo el alumno que complete los dos itemes recibira la bonificación
+----
+#####La tarea debe ser enviada en un solo archivo ".py" al correo de su ayudante con el asunto 
+"Programacion <diurno|vespertino> Tarea 2 2014-1" y con el siguiente formato: 
+"tarea_2_nombre_apellido_apellido_rut.py"
+
+###El plazo final es para los diurnos el Lunes 21 de Abril a las 23:59 Hrs. y para los vespertinos el Viernes 25 de Abril a las 23:59 Hrs. Cualquier tarea recibida posterior a este plazo será evaluada con nota mínima.
+
+----
+#####Eso es todo, cualquier duda pueden hacérmela llegar a los correos de los ayudantes con el asunto "Programacion", sólo los correos con ese asunto serán contestados. 
+
+#####Saludos y mucho éxito! Nos vemos en clases.
+
+###Francisco Valdivia M.
+###Roberto Moreno P.
+
+Referencias
+[1] http://es.wikipedia.org/wiki/Ordenamiento_de_burbuja
+[2] http://es.wikipedia.org/wiki/Quicksort 
+[3] http://es.wikipedia.org/wiki/Ordenamiento_Radix
+[4] https://www.youtube.com/watch?v=m4yVlPqeZwo
