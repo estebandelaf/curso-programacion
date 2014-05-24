@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1400945363 source:/home/rmorenp/Testing/programacion/laboratorios/2014-1/vespertino/lab06/calculadora/Calculadora/main.c
+	<stdio.h>
+	<stdlib.h>
+
