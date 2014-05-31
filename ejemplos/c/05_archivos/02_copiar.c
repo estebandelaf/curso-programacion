@@ -81,10 +81,15 @@ int main (int argc, char *argv[])
 		return EXIT_FAILURE;
 	}
 	/* verificar que no haya habido error en la copia y retornar al sistema */
-	if (copiado>0) {
+	if (copiado==0) {
+		printf("Archivo de entrada vacio\n");
+		return EXIT_SUCCESS;
+	}
+	else if (copiado>0) {
 		printf("Se copiaron %d bytes\n", copiado);
 		return EXIT_SUCCESS;
-	} else {
+	}
+	else {
 		perror("file_copy()");
 		return EXIT_FAILURE;
 	}

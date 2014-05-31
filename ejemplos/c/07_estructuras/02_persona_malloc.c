@@ -11,7 +11,7 @@ struct persona {
 struct persona *persona_crear(int run, char *nombre, int edad)
 {
 	struct persona *p = (struct persona *) malloc (sizeof(struct persona));
-	p->nombre = (char *) malloc (100);
+	p->nombre = (char *) malloc (strlen(nombre));
 	p->run = run;
 	strcpy(p->nombre, nombre);
 	p->edad = edad;

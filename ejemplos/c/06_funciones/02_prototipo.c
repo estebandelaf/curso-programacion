@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* prototipo o firma de la función saludar */
 void saludar(char*);
 
 int main ()
