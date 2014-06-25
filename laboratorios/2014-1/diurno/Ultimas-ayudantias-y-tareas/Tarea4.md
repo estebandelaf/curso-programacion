@@ -70,7 +70,6 @@ Los siguientes son los tipos de errores que se piden identificar:
 * ERROR EN FILA Y
 * ERROR EN COLUMNA Z
 
-La fecha de entrega tope es el 20 de junio de 2014 a las 23.59 hrs. GMT -4
 
 Deben programar su tarea usando el IDE online disponible aquí http://profesores.ing.unab.cl/~delaf/ide
 Luego enviar el proyecto completo descargandolo de la misma página en formato .tar.gz
