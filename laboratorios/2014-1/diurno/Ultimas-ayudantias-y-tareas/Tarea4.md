@@ -3,7 +3,7 @@
 ***Francisco Valdivia***
 ***Roberto Moreno***
 
-#Tarea N°5
+#Tarea N°4
 
 La tarea que usted realizará consiste en desarrollar un programa en C.
 
