@@ -15,7 +15,7 @@ int main()
 	 *    printf("cuadrado(2) = %d", 2*2);
 	 */
 	printf("suma(1,2) = %d\n", suma(1,2));
-	printf("2*suma(1,2) = %d\n", 2*suma(1,2));
-	printf("2*suma2(1,2) = %d\n", 2*suma2(1,2));
+	printf("2*suma(1,2) = %d\n", 2*suma(1,2)); /* 2*1+2 */
+	printf("2*suma2(1,2) = %d\n", 2*suma2(1,2)); /* 2*(1+2) */
 	return EXIT_SUCCESS;
 }

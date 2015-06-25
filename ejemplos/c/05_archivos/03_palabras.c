@@ -15,7 +15,7 @@ que nace gracias a esta huea
 
 int main()
 {
-	int palabras;
+	int palabras = 0;
 	char buffer[1024], *ptr, *sep = " ";
 	FILE *input = fopen("input.txt", "r");
 	while (fgets(buffer, sizeof(buffer), input) != NULL) {

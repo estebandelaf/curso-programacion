@@ -15,9 +15,14 @@
 
 int main()
 {
-	FILE *input;
+	FILE *input; /* descriptor de archivo / fd */
 	int valor;
 	input = fopen("input.txt", "r");
+	/*if (input==NULL) {
+		printf("[error]: no se pudo abrir archivo\n");
+		return EXIT_FAILURE;
+	}*/
+	/* aparte de fscanf existe: vfscanf, fgets, fgetc y read */
 	while (fscanf(input, "%d", &valor)==1) {
 		printf("%d\n", valor);
 	}

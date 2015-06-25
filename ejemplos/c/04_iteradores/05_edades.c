@@ -28,7 +28,7 @@ int main()
 		scanf("%d", &edad);
 		printf("%d\n", edad);
 		if (edad==-1)
-			break;
+			break; /* rompe el ciclo */
 		else if (edad<2)
 			bebes++;
 		else if (edad<14)

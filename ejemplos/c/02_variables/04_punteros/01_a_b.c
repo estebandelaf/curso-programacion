@@ -5,7 +5,7 @@ int main()
 {
 	int a = 3, *b = NULL;
 	printf ("a = %d\n", a);
-	/* esto no se hace */
+	/* esto no se debe hacer */
 	/*b = (int*)a;
 	 *    printf ("b = %d\n", b);
 	 *    printf ("*b = %d\n", *b);*/

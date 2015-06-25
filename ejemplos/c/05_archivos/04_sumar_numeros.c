@@ -19,8 +19,9 @@ int main()
 	int valor, suma = 0;
 	input = fopen("input.txt", "r");
 	while (fscanf(input, "%d", &valor)==1) {
-		if (valor!=2)
-			suma += valor; /* suma = suma + valor */
+		if (valor!=2) {
+			suma = suma + valor; /* suma += valor; */
+		}
 	}
 	fclose(input);
 	printf("suma = %d\n", suma);
