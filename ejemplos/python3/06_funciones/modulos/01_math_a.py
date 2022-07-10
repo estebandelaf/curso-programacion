@@ -3,5 +3,6 @@
 - Más claro.
 """
 import math
-print(math.sqrt(4))
+raiz = math.sqrt(4)
+print(raiz)
 print(math.pi)

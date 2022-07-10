@@ -1,0 +1,3 @@
+nombre1,apellido1,promedio_final
+nombre2,apellido2,promedio_final
+nombre3,apellido3,promedio_final

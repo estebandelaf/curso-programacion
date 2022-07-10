@@ -1,0 +1,12 @@
+nombre1,apellido1
+curso1,6,5,4
+curso2,6,4,5.5,5
+curso3,7,6.5,7
+*
+nombre2,apellido2
+curso1,4,3.5,5.5
+curso2,5.5,6,7,6
+*
+nombre3,apellido3
+curso1,7,5,6
+curso2,5,2,3.5,3
